@@ -9,8 +9,9 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(Isogram.IsIsogram("alphAbet"));
-                
+            WriteLine(DifferenceOfSquares.CalculateSquareOfSum(10));
+            WriteLine(DifferenceOfSquares.CalculateSumOfSquares(10));
+            WriteLine(DifferenceOfSquares.CalculateDifferenceOfSquares(10));
         }
     }
 }
