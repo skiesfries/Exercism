@@ -14,3 +14,19 @@ C:\Users\Sky\Desktop\Visual Studio Projects\Exercism\Exercism\obj\Debug\net5.0\E
 C:\Users\Sky\Desktop\Visual Studio Projects\Exercism\Exercism\obj\Debug\net5.0\ref\Exercism.dll
 C:\Users\Sky\Desktop\Visual Studio Projects\Exercism\Exercism\obj\Debug\net5.0\Exercism.pdb
 C:\Users\Sky\Desktop\Visual Studio Projects\Exercism\Exercism\obj\Debug\net5.0\Exercism.genruntimeconfig.cache
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.exe
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.deps.json
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.runtimeconfig.json
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.runtimeconfig.dev.json
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.dll
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\ref\Exercism.dll
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\bin\Debug\net5.0\Exercism.pdb
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.csproj.AssemblyReference.cache
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.AssemblyInfoInputs.cache
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.AssemblyInfo.cs
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.dll
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\ref\Exercism.dll
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.pdb
+C:\Users\Sky\Documents\GitHub\Exercism\Exercism\obj\Debug\net5.0\Exercism.genruntimeconfig.cache

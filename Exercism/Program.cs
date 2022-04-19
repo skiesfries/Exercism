@@ -9,7 +9,7 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            
+            WriteLine(Isogram.IsIsogram("alphAbet"));
                 
         }
     }

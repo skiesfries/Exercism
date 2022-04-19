@@ -10,17 +10,23 @@ namespace Exercism
     {
         public static bool IsIsogram(string word)
         {
+            string lowercaseWord = word.ToLower();
             List<char> letters = new() { };
-            for (int i = 0; i < word.Length; i++)
+            List<char> charsAllowed = new() {' ', '-'};
+            for (int i = 0; i < lowercaseWord.Length; i++)
             {
-                if (letters.Contains(word[i]))
+                if (letters.Contains(lowercaseWord[i]))
                 {
+                    if (charsAllowed.Contains(lowercaseWord[i]))
+                    {
+                        continue;
+                    }
                     return false;
                 }
                 else
-                    letters.Add(word[i]);
+                    letters.Add(lowercaseWord[i]);
             }
-            return false;
+            return true;
         }
     }
 }
