@@ -9,9 +9,8 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(DifferenceOfSquares.CalculateSquareOfSumLINQ(10));
-            WriteLine(DifferenceOfSquares.CalculateSumOfSquaresLINQ(10));
-            WriteLine(DifferenceOfSquares.CalculateDifferenceOfSquares(10));
+            WriteLine();
+            
         }
     }
 }
