@@ -18,6 +18,9 @@ namespace Exercism
             return (int)Math.Pow(squareOfSum, 2);
         }
 
+        public static int CalculateSquareOfSumLINQ(int max) => (int)Math.Pow(Enumerable.Range(1, max).Sum(), 2);
+      
+
         public static int CalculateSumOfSquares(int max)
         {
             int sumOfSquares = 0;
@@ -27,6 +30,8 @@ namespace Exercism
             }
             return sumOfSquares;
         }
+
+        public static int CalculateSumOfSquaresLINQ(int max) => Enumerable.Range(1, max).Sum(x => x * x);
 
         public static int CalculateDifferenceOfSquares(int max) => CalculateSquareOfSum(max) - CalculateSumOfSquares(max);
        
