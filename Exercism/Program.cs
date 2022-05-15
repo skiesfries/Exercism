@@ -9,7 +9,7 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(Darts.Score(-3.6, -3.6));
+            WriteLine(BeerSong.Recite(99,99));
             
         }
     }
