@@ -10,7 +10,7 @@ namespace Exercism
         static void Main(string[] args)
         {
             
-            
+
         }
     }
 }
