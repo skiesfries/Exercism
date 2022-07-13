@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercism
 {
-    /* Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
+    /* CHALLENGE: Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
          * The Caesar cipher is a simple shift cipher that relies on transposing 
          * all the letters in the alphabet using an integer key between 0 and 26.
          * Using a key of 0 or 26 will always yield the same output due to modular arithmetic. 
@@ -26,7 +26,7 @@ namespace Exercism
 
                     if (rotatedChar > 'z')
                     {
-                        text = text.Remove(i, 1).Insert(i, GetRotatedCharWithWrappedAlphabet(letter, shiftKey, text[i])); // makes it so if shifting keys goes over z, alphabet will wrap back to a and continue counting
+                        text = text.Remove(i, 1).Insert(i, GetRotatedCharWithWrappedAlphabet(letter, shiftKey, text[i])); 
                     }
                     else
                     {

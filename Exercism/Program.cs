@@ -9,7 +9,7 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(RotationalCipher.Rotate("O M G", 5));
+            WriteLine(RotationalCipher.Rotate("omg", 5));
 
         }
     }
