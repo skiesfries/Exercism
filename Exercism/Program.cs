@@ -9,9 +9,7 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            string result = ReverseString.Reverse("tth&)");
-                
-            WriteLine(result);
+            WriteLine(RotationalCipher.Rotate("O M G", 5));
 
         }
     }
