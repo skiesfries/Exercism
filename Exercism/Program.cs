@@ -9,7 +9,8 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            string result = ReverseString.Reverse("tth&4");
+            string result = ReverseString.Reverse("tth&)");
+                
             WriteLine(result);
 
         }
