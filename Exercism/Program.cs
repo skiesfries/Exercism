@@ -9,7 +9,7 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(RotationalCipher.Rotate("omg", 5));
+            WriteLine(MatchingBrackets.IsPaired("[hel[lo]"));
 
         }
     }
