@@ -9,8 +9,8 @@ namespace Exercism
     {
         static void Main(string[] args)
         {
-            WriteLine(MatchingBrackets.IsPaired("[hel[lo]"));
-
+            WriteLine(MatchingBrackets.IsPaired(""));
+            
         }
     }
 }
